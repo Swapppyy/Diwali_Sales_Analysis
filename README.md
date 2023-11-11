@@ -4,7 +4,7 @@
 
 I conducted an in-depth analysis of Diwali sales, leveraging Python to extract meaningful insights from the dataset. The primary objective was to discern patterns and trends related to consumer behavior during the Diwali sales period. The analysis encompassed various aspects, including age group preferences for shopping, gender-based purchasing habits, employment status influence on buying patterns, state-wise sales distribution, popular products, the marital status of buyers, occupational influences, and their collective impact on sales. This exploration aimed to provide valuable information for data-driven decision-making in the context of optimizing sales strategies and enhancing the overall effectiveness of marketing initiatives during the festive season.
   
-Datset Link: <a href = "https://www.kaggle.com/datasets/prajwal6362venom/diwali-sales"</a>
+Datset Link: https://www.kaggle.com/datasets/prajwal6362venom/diwali-sales 
 
 ### The aim of this project is to answer below questions:
 
