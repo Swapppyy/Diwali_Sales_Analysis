@@ -38,6 +38,13 @@ My Notebook:
 - Most of the buyers are working in IT, Healthcare and Aviation sector
 - Most of the sold products are from Food, Clothing and Electronics and Footwear
 
+<br>
+
+### Age group shopping pattern:
+<p align="center">
+  <img width="100%" src="Diw.png" />
+</p>
+
 
 
 
